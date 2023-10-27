@@ -110,9 +110,9 @@ SetupPython3()
 
 SourceEnv()
 {
-  SetupPython3
   SetWorkspace
   SetupEnv
+  SetupPython3
 }
 
 I=$#
